@@ -14,7 +14,9 @@ Python 3.10.9 (https://www.python.org/downloads/release/python-3109/)
 There are two ways to use this script:
 
 **1. From the box (pre-compiled executable):**
-Unzip the downloaded folder to your preferred location. Inside the folder dist, you will find the executable file shotlist_creator2.
+Unzip the downloaded folder to your preferred location. Inside the folder dist, you will find the executable file shotlist_creator2.  
+  [download win pre-compiled executable](https://drive.google.com/file/d/1eepAVmB_wWZ88IEg-DoRQeF7_Bg0VyKg/view?usp=sharing)  
+  [download mac pre-compiled executable](https://drive.google.com/file/d/1P7dFYC9Cu2k0ga3XAdWc2Rz75CFqR5xG/view?usp=drive_link)  
 
 **2. Running directly from DaVinci Resolve Studio:**  
 Copy the file shotlist_creator2.py to the DaVinci Resolve Utility scripts folder:  
